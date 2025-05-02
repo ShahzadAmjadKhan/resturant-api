@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant Management System
 
 A full-stack application for managing restaurant information, featuring a RESTful API backend and a modern web frontend built with Spring Boot, Thymeleaf, and Bootstrap.
